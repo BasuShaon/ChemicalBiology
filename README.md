@@ -2,7 +2,7 @@
 
 New methods to visualize the condensation behavior of fluorescently tagged recombinant proteins encoding human disease mutations using confocal microscopy systems
 
-Contains image analysis code and sample data sets used in "Unblending of Transcriptional Condensates in Human Repeat Expansion Disease" by Basu et al.
+Contains image analysis code and sample data sets used in "**Unblending of Transcriptional Condensates in Human Repeat Expansion Disease**" by Basu et al.
 
 Published: Cell, May 07 2020 
 
